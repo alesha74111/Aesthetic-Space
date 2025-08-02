@@ -6,4 +6,4 @@
 - Usage of modern standards in **HTML**, **CSS**, and **JavaScript**  
 - Responsive design for various devices and screen sizes  
 - Experience in creating scalable and maintainable interfaces
- ![Главный экран](docs/images/bento.png)
+- ![Главный экран](docs/images/bento.png)
